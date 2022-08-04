@@ -1,4 +1,4 @@
-# VscodeのRemote Devlopmentを使って開発環境を作る
+# VscodeのRemote Devlopmentを使ってPython開発環境を作る
 ## VscodeのRemote Devlopmentとは
 ローカルPCのエディタ(VS code)を使って、リモートサーバー/コンテナー上で開発ができるVS Codeの拡張機能のこと。
 
